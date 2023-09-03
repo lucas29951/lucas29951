@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lucas Rodriguez</h1>
-<h3 align="center">A passionate <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3BBAF7&center=true&width=435&lines=Full-Stack+Developer" alt="Typing SVG" /></a> from Argentina</h3>
+<h3 align="center">A passionate Full-Stack Developer from Argentina</h3>
 
+<p align=center>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3BBAF7&center=true&width=435&lines=Full-Stack+Developer" alt="Typing SVG" /></a>
+</p>
 
 🌟 I'm a 28-year-old programmer 🇦🇷 passionate about coding, eager to learn and grow. From my first lines of code, I discovered my love for programming and have explored a wide range of technologies 🚀, from Angular to Java, and more.
 
