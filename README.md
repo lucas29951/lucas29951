@@ -80,3 +80,13 @@ If you're looking for a dedicated and passionate programmer, let's talk! I'm exc
 [![](https://visitcount.itsvg.in/api?id=lucas29951&icon=5&color=9)](https://visitcount.itsvg.in)
   
 </div>
+
+<p align="center" dir="auto">
+  <a href="https://github.com/lucas29951?tab=repositories&amp;sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://camo.githubusercontent.com/40b5af963767bfacdeffa8c910e6bb3042465fd62bededc837705306aedc294e/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f6769746875622f73746172732f44656e766572436f646572313f636f6c6f723d353539363063267374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d343838323037266c6f676f3d73746172" data-canonical-src="https://custom-icon-badges.demolab.com/github/stars/lucas29951?color=55960c&amp;style=for-the-badge&amp;labelColor=488207&amp;logo=star" style="max-width: 100%;"></a>
+  <a href="https://github.com/lucas29951?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://camo.githubusercontent.com/447e42519c64caa9aff5a7695e4b0397fc2ef0568cf250e70bb6f1f02808e573/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f6769746875622f666f6c6c6f776572732f44656e766572436f646572313f636f6c6f723d323336616433266c6162656c436f6c6f723d313135356261267374796c653d666f722d7468652d6261646765266c6f676f3d706572736f6e2d616464266c6162656c3d466f6c6c6f77266c6f676f436f6c6f723d7768697465" data-canonical-src="https://custom-icon-badges.demolab.com/github/followers/lucas29951?color=236ad3&amp;labelColor=1155ba&amp;style=for-the-badge&amp;logo=person-add&amp;label=Follow&amp;logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://github.com/lucas29951/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://camo.githubusercontent.com/0fe9a30a036174bf4c15f01bfb583357e3bfbe281724ef8652d3fa60d5cf6e91/68747470733a2f2f6672657368696465612e636f6d2f6a6f6e61682f6170702f44656e766572436f646572312d70726f66696c652d7669657773" data-canonical-src="https://freshidea.com/jonah/app/lucas29951-profile-views" style="max-width: 100%;"></a>
+</p>
+
