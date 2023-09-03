@@ -43,10 +43,9 @@
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=lucas29951&theme=darkhub&row=1&column=10&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=lucas29951&theme=darkhub&row=1&column=8&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
-![](https://github-profile-trophy.vercel.app/?username=lucas29951&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 <!--- trophy (start) -->
 </p>
 
