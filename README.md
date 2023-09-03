@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lucas Rodriguez</h1>
 <h3 align="center">A passionate Full Stack Developer from Argentina</h3>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3BBAF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Backend+Java+Developer;Frontend+Angular+Developer" alt="Typing SVG" /></a>
+<p align=center>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3BBAF7&center=true&width=435&lines=Full-Stack+Developer;Backend+Java+Developer;Frontend+Angular+Developer" alt="Typing SVG" /></a>
+</p>
 
 - 🌱 I’m currently learning **PHP, React and NodeJS**
 
