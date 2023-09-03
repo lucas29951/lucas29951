@@ -21,7 +21,7 @@
 # 📊 GitHub Stats:
 <p align="center">
   <!--- stats (start) -->
-<table align="center" border="0">
+<table align="center">
 <tr border="none">
 <td width="50%" align="center">
   
