@@ -52,6 +52,9 @@ If you're looking for a dedicated and passionate programmer, let's talk! I'm exc
 <!--- trophy (end) -->
 </p>
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 # 💻 Languages and Tools:
 <!--tech stack icons-->
 <p align="center">
@@ -59,6 +62,9 @@ If you're looking for a dedicated and passionate programmer, let's talk! I'm exc
     <img src="https://skillicons.dev/icons?i=git,bootstrap,c,css,discord,docker,express,firebase,github,html,java,js,mysql,nodejs,postman,ts,vscode,angular,heroku,spring&perline=14" />
   </a>
 </p>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 🌐 Connect with me:
 <!--icons and links-->
