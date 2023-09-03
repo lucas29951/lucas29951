@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas Rodriguez</h1>
 <h3 align="center">A passionate Full Stack Developer from Argentina</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucas29951&label=Profile%20views&color=0e75b6&style=flat" alt="lucas29951" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucas29951" alt="lucas29951" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/lucas29951" target="blank"><img src="https://img.shields.io/twitter/follow/lucas29951?logo=twitter&style=for-the-badge" alt="lucas29951" /></a> </p>
-
 - 🌱 I’m currently learning **PHP, React and NodeJS**
 
 - 📫 How to reach me **lucasg29r95@gmail.com**
