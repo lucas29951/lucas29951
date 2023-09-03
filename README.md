@@ -10,6 +10,13 @@
 <a href="https://instagram.com/lucas29951" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 </p>
 
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=lucas29951&icon=5&color=9)](https://visitcount.itsvg.in)
+  
+</div>
+
 # 💻 Tech Stack:
 <!--tech stack icons-->
 <p align="center">
@@ -52,7 +59,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=lucas29951&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=lucas29951&icon=5&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
