@@ -1,6 +1,13 @@
 # 💫 About Me:
 ¡Hola! Soy Lucas, soy un programador de 28 años nacido en Argentina, con ganas de aprender y destacar en el mundo de la programación.<br><br>Desde mis primeras líneas de código, me di cuenta de que la programación es mi verdadera pasión. Ver todo lo que se puede crear utilizando código me ha permitido querer crecer y evolucionar en este campo de la tecnología. A lo largo de los años, he adquirido habilidades en una amplia gama de tecnologías y lenguajes de programación, desde Angular hasta JavaScript, pasando por Java y C. Estoy constantemente buscando oportunidades para desafiarme a mí mismo y expandir mis conocimientos.<br><br>Disfruto participando en proyectos diversos y emocionantes, donde puedo aplicar mis habilidades técnicas para crear soluciones innovadoras. Mi actitud proactiva y mi capacidad para aprender rápidamente me han permitido contribuir de manera significativa en equipos de desarrollo. Siempre estoy listo para abordar nuevos desafíos y aprender nuevas tecnologías para mejorar mis habilidades.<br><br>En mi tiempo libre, me encanta explorar proyectos personales, donde puedo experimentar con nuevas ideas y tecnologías. Creo firmemente en la importancia de mantenerme actualizado y estar al tanto de las últimas tendencias tecnológicas.<br><br>Si buscas a un programador motivado, apasionado por aprender y comprometido con la excelencia, ¡estás en el lugar correcto! Estoy emocionado por la oportunidad de trabajar en proyectos emocionantes y contribuir al éxito de tu equipo.<br><br>¡Hablemos sobre cómo puedo ayudar en tu próximo proyecto!
 
+# 💻 Tech Stack:
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,css,discord,docker,express,firebase,github,html,java,js,mysql,nodejs,postman,ts,vscode,angular,heroku,php,spring&perline=14" />
+  </a>
+</p>
 
 ## 🌐 Socials:
 <!--icons and links-->
@@ -16,14 +23,6 @@
 [![](https://visitcount.itsvg.in/api?id=lucas29951&icon=5&color=9)](https://visitcount.itsvg.in)
   
 </div>
-
-# 💻 Tech Stack:
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,css,discord,docker,express,firebase,github,html,java,js,mysql,nodejs,postman,ts,vscode,angular,heroku,php,spring&perline=14" />
-  </a>
-</p>
 
 # 📊 GitHub Stats:
 <p align="center">
