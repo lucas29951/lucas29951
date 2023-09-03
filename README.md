@@ -5,6 +5,12 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3BBAF7&center=true&width=435&lines=Full-Stack+Developer;Backend+Java+Developer;Frontend+Angular+Developer" alt="Typing SVG" /></a>
 </p>
 
+Hello Lucas! 👋 I'm a 28-year-old Argentine programmer 🇦🇷 passionate about coding, eager to learn and grow. From my first lines of code, I discovered my love for programming and have explored a wide range of technologies 🚀, from Angular to Java, and more.
+
+I thrive on exciting challenges 💪 and collaborating with teams to create innovative solutions. My proactive attitude and quick learning ability enable me to adapt to any project. In my free time, I enjoy exploring personal projects to continue learning and staying up-to-date with the latest technological trends.
+
+If you're looking for a dedicated and passionate programmer, let's talk! I'm excited about the opportunity to be part of your next project. 😊👨‍💻
+
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
