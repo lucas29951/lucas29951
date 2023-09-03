@@ -13,6 +13,13 @@
 <a href="https://instagram.com/lucas29951" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 </p>
 
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=lucas29951&icon=5&color=9)](https://visitcount.itsvg.in)
+  
+</div>
+
 
 <h3 align="left"># 💻 Languages and Tools:</h3>
 <!--tech stack icons-->
@@ -23,6 +30,34 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas29951&show_icons=true&locale=en&layout=compact" alt="lucas29951" /></p>
+# 📊 GitHub Stats:
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=lucas29951&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lucas29951&theme=dark&hide_border=false" /> 
+</td>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucas29951&show_icons=true&locale=en" alt="lucas29951" /></p>
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lucas29951&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+# 🏆 GitHub Trophies
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=lucas29951&theme=darkhub&row=1&column=8&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (end) -->
+</p>
+
