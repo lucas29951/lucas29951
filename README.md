@@ -1,4 +1,4 @@
-<div width="100%"> ![Header](https://raw.githubusercontent.com/lucas29951/lucas29951/main/readme-header-es.png "Header") </div>
+![Header](https://raw.githubusercontent.com/lucas29951/lucas29951/main/readme-header-es.png "Header")
 
 ## Hola, soy Lucas 👋
 
