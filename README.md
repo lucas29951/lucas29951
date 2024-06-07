@@ -4,6 +4,10 @@
 
 **¡Bienvenido a mi perfil de GitHub!** Soy un estudiante de programación con pasión por el desarrollo web Full Stack. Comencé a programar a los 16 años y sigo activamente desarrollando mis habilidades técnicas, especialmente en diseño y funcionalidad de sitios web.
 
+- 🌱 I’m currently learning **PHP, React and NodeJS**
+
+- 📫 How to reach me **lucasg29r95@gmail.com**
+
 ### 👨‍💻 Lenguajes de Programación y Herramientas
 #### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -51,12 +55,7 @@
 
 
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- 🌱 I’m currently learning **PHP, React and NodeJS**
-
-- 📫 How to reach me **lucasg29r95@gmail.com**
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
