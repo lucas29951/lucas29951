@@ -48,12 +48,8 @@
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas29951&show_icons=true&theme=tokyonight)
 
 ### 🏆 GitHub Trophies
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=lucas29951&theme=darkhub&row=1&column=8&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-</p>
+<img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=lucas29951&theme=tokyonight&row=1&column=8&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+
 
 ### 🤝 Redes Sociales y Contacto
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas29951)
@@ -62,6 +58,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourTwitter)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yourDiscordID)
 
-
-[![](https://visitcount.itsvg.in/api?id=lucas29951&icon=5&color=9)](https://visitcount.itsvg.in)
-
+<div align="center">
+  [![](https://visitcount.itsvg.in/api?id=lucas29951&icon=5&color=9)](https://visitcount.itsvg.in)
+</div>
