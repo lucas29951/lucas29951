@@ -41,7 +41,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ### 📊 Estadísticas de GitHub
 ![Lucas's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lucas29951&show_icons=true&theme=tokyonight)
@@ -57,5 +56,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lucas29951)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yourDiscordID)
 
-
-[![Lucas GitHub Visits](https://visitcount.itsvg.in/api?id=lucas29951&icon=5&color=9)](https://visitcount.itsvg.in)
+<p align="center">
+  [![Lucas GitHub Visits](https://visitcount.itsvg.in/api?id=lucas29951&icon=5&color=9)](https://visitcount.itsvg.in)
+</p>
