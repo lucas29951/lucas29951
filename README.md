@@ -5,7 +5,7 @@
 
 - 🌱 Actualmente estoy aprendiendo: **NodeJS y PHP**
 
-- 📫 Mi correo de contacto es: **lucasg29r95@gmail.com**
+- 📫 Mi correo de contacto es: <lucasg29r95@gmail.com>
 
 
 ### 👨‍💻 Lenguajes de Programación y Herramientas
@@ -48,16 +48,14 @@
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas29951&show_icons=true&theme=tokyonight)
 
 ### 🏆 GitHub Trophies
-<img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=lucas29951&theme=tokyonight&row=1&column=8&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=lucas29951&theme=darkhub&row=1&column=8&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
 
 ### 🤝 Redes Sociales y Contacto
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas29951)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucas29951)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourInstagram)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourTwitter)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lucas29951)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lucas29951)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yourDiscordID)
 
-<div align="center">
-  [![](https://visitcount.itsvg.in/api?id=lucas29951&icon=5&color=9)](https://visitcount.itsvg.in)
-</div>
+
+[![Lucas GitHub Visits](https://visitcount.itsvg.in/api?id=lucas29951&icon=5&color=9)](https://visitcount.itsvg.in)
