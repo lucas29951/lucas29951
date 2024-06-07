@@ -1,7 +1,5 @@
 ![Header](https://raw.githubusercontent.com/lucas29951/lucas29951/main/readme-header-es.png "Header")
 
-## Hola, soy Lucas 👋
-
 **¡Bienvenido a mi perfil de GitHub!** Soy un estudiante de programación con pasión por el desarrollo web Full Stack. Comencé a programar a los 16 años y sigo activamente desarrollando mis habilidades técnicas, especialmente en diseño y funcionalidad de sitios web.
 
 
