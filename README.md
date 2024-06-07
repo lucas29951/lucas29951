@@ -4,9 +4,11 @@
 
 **¡Bienvenido a mi perfil de GitHub!** Soy un estudiante de programación con pasión por el desarrollo web Full Stack. Comencé a programar a los 16 años y sigo activamente desarrollando mis habilidades técnicas, especialmente en diseño y funcionalidad de sitios web.
 
-- 🌱 I’m currently learning **PHP, React and NodeJS**
 
-- 📫 How to reach me **lucasg29r95@gmail.com**
+- 🌱 Actualmente estoy aprendiendo: **NodeJS y PHP**
+
+- 📫 Mi correo de contacto es: **lucasg29r95@gmail.com**
+
 
 ### 👨‍💻 Lenguajes de Programación y Herramientas
 #### Frontend
