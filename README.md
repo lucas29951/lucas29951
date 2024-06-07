@@ -1,6 +1,6 @@
 ![Header](https://raw.githubusercontent.com/lucas29951/lucas29951/main/readme-header-es.png "Header")
 
-**¡Bienvenido a mi perfil de GitHub!** Soy un estudiante de programación con pasión por el desarrollo web Full Stack. Comencé a programar a los 16 años y sigo activamente desarrollando mis habilidades técnicas, especialmente en diseño y funcionalidad de sitios web.
+**¡Bienvenido a mi perfil de GitHub!** Soy un estudiante de programación apasionado por el desarrollo web. Comencé a programar a los 16 años y sigo desarrollando mis habilidades técnicas, especialmente en diseño y funcionalidad de sitios web.
 
 
 - 🌱 Actualmente estoy aprendiendo: **NodeJS y PHP**
@@ -55,7 +55,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lucas29951)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lucas29951)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yourDiscordID)
-
-<p align="center">
-  [![Lucas GitHub Visits](https://visitcount.itsvg.in/api?id=lucas29951&icon=5&color=9)](https://visitcount.itsvg.in)
-</p>
