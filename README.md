@@ -4,7 +4,7 @@
 Soy un estudiante de programación apasionado por el desarrollo web. Comencé a programar a los 16 años y sigo desarrollando mis habilidades técnicas, especialmente en diseño y funcionalidad de sitios web.
 
 
-- 🌱 Actualmente estoy aprendiendo: **NodeJS y PHP**
+- 🌱 Actualmente estoy aprendiendo: **NodeJS**
 
 - 📫 Mi correo de contacto es: <lucasg29r95@gmail.com>
 
@@ -24,7 +24,6 @@ Soy un estudiante de programación apasionado por el desarrollo web. Comencé a 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 #### Bases de Datos
