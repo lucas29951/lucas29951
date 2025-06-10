@@ -47,9 +47,9 @@ Soy un estudiante de programación apasionado por el desarrollo web. Comencé a 
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 ### 📦 Repositorios Destacados
-| [![To-Do List](https://github-readme-stats.vercel.app/api/pin/?username=lucas29951&repo=to-do-list&theme=tokyonight)](https://github.com/lucas29951/to-do-list) | [![Piedra Papel Tijera](https://github-readme-stats.vercel.app/api/pin/?username=lucas29951&repo=piedra-papel-tijera&theme=tokyonight)](https://github.com/lucas29951/piedra-papel-tijera) |
+| [![Angular Movies](https://github-readme-stats.vercel.app/api/pin/?username=lucas29951&repo=angular-movies&theme=tokyonight)](https://github.com/lucas29951/angular-movies) | [![Academy Track](https://github-readme-stats.vercel.app/api/pin/?username=lucas29951&repo=academy-track&theme=tokyonight)](https://github.com/lucas29951/academy-track) |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Memory Game](https://github-readme-stats.vercel.app/api/pin/?username=lucas29951&repo=Memory-Game&theme=tokyonight)](https://github.com/lucas29951/Memory-Game) | [![Proyecto CAC Front](https://github-readme-stats.vercel.app/api/pin/?username=lucas29951&repo=proyecto-cac-front&theme=tokyonight)](https://github.com/lucas29951/proyecto-cac-front) |
+| [![Pokedex](https://github-readme-stats.vercel.app/api/pin/?username=lucas29951&repo=poke-api&theme=tokyonight)](https://github.com/lucas29951/poke-api) | [![Proyecto CAC Front](https://github-readme-stats.vercel.app/api/pin/?username=lucas29951&repo=proyecto-cac-front&theme=tokyonight)](https://github.com/lucas29951/proyecto-cac-front) |
 
 
 ### 📊 Estadísticas de GitHub
