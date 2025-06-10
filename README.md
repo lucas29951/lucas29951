@@ -48,9 +48,11 @@ Soy un estudiante de programación apasionado por el desarrollo web. Comencé a 
 
 ### 📦 Repositorios Destacados
 <div style="display: flex;">
-  [![To-Do List](https://github-readme-stats.vercel.app/api/pin/?username=lucas29951&repo=to-do-list&theme=tokyonight)](https://github.com/lucas29951/to-do-list)
 
-  [![Piedra Papel Tijera](https://github-readme-stats.vercel.app/api/pin/?username=lucas29951&repo=piedra-papel-tijera&theme=tokyonight)](https://github.com/lucas29951/piedra-papel-tijera)
+[![To-Do List](https://github-readme-stats.vercel.app/api/pin/?username=lucas29951&repo=to-do-list&theme=tokyonight)](https://github.com/lucas29951/to-do-list)
+
+[![Piedra Papel Tijera](https://github-readme-stats.vercel.app/api/pin/?username=lucas29951&repo=piedra-papel-tijera&theme=tokyonight)](https://github.com/lucas29951/piedra-papel-tijera)
+
 </div>
 
 ### 📊 Estadísticas de GitHub
