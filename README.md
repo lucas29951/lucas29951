@@ -4,7 +4,7 @@
 Soy un estudiante de programación apasionado por el desarrollo web. Comencé a programar a los 16 años y sigo desarrollando mis habilidades técnicas, especialmente en diseño y funcionalidad de sitios web.
 
 
-- 🌱 Actualmente estoy aprendiendo: **NodeJS**
+- 🌱 Actualmente estoy aprendiendo: **Python, PHP**
 
 - 📫 Mi correo de contacto es: <lucasg29r95@gmail.com>
 
