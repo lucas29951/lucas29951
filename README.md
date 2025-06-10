@@ -53,7 +53,7 @@ Soy un estudiante de programación apasionado por el desarrollo web. Comencé a 
 ![Lenguajes más usados](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucas29951&layout=compact&theme=tokyonight&hide_border=false)
 
 ### 🏆 GitHub Trophies
-[![Trophies](https://github-profile-trophy.vercel.app/?username=lucas29951&theme=tokyonight&no-frame=false&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=lucas29951&theme=darkhub&no-frame=false&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🤝 Redes Sociales y Contacto
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasgrodriguez)
