@@ -47,8 +47,10 @@ Soy un estudiante de programación apasionado por el desarrollo web. Comencé a 
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 ### 📊 Estadísticas de GitHub
-![Lucas's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lucas29951&show_icons=true&theme=tokyonight)
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas29951&show_icons=true&theme=tokyonight)
+
+![Estadísticas de GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=lucas29951&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+![Lenguajes más usados](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucas29951&layout=compact&theme=tokyonight&hide_border=false)
 
 ### 🏆 GitHub Trophies
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=lucas29951&theme=darkhub&row=1&column=8&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
