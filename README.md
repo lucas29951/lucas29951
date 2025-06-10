@@ -46,8 +46,12 @@ Soy un estudiante de programación apasionado por el desarrollo web. Comencé a 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
-### 📊 Estadísticas de GitHub
+### 📦 Repositorios Destacados
+[![To-Do List](https://github-readme-stats.vercel.app/api/pin/?username=lucas29951&repo=to-do-list&theme=tokyonight)](https://github.com/lucas29951/to-do-list)
 
+[![Piedra Papel Tijera](https://github-readme-stats.vercel.app/api/pin/?username=lucas29951&repo=piedra-papel-tijera&theme=tokyonight)](https://github.com/lucas29951/piedra-papel-tijera)
+
+### 📊 Estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=lucas29951&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
 ![Lenguajes más usados](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucas29951&layout=compact&theme=tokyonight&hide_border=false)
