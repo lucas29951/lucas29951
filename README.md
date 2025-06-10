@@ -54,9 +54,7 @@ Soy un estudiante de programación apasionado por el desarrollo web. Comencé a 
 
 
 ### 📊 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=lucas29951&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
-![Lenguajes más usados](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucas29951&layout=compact&theme=tokyonight&hide_border=false)
+| ![Estadísticas de GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=lucas29951&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true) | ![Lenguajes más usados](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucas29951&layout=compact&theme=tokyonight&hide_border=false) |
 
 ### 🏆 GitHub Trophies
 [![Trophies](https://github-profile-trophy.vercel.app/?username=lucas29951&theme=darkhub&no-frame=false&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
