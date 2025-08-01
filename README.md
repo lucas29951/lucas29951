@@ -44,8 +44,9 @@ Soy un estudiante de programación apasionado por el desarrollo web. Comencé a 
 ![Visual Basic 6.0](https://img.shields.io/badge/Visual_Basic_6.0-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-FF6C37?style=for-the-badge&logo=insomnia&logoColor=white)
 
 ### 📦 Repositorios Destacados
 | [![Angular Movies](https://github-readme-stats.vercel.app/api/pin/?username=lucas29951&repo=angular-movies&theme=tokyonight)](https://github.com/lucas29951/angular-movies) | [![Academy Track](https://github-readme-stats.vercel.app/api/pin/?username=lucas29951&repo=academy-track&theme=tokyonight)](https://github.com/lucas29951/academy-track) |
